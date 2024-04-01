@@ -1,9 +1,9 @@
 {
-    "name": "php-tmdb/symfony",
+    "name": "cirica/my-tmdb",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Symfony Bundle for TMDB (The Movie Database) API. Provides easy access to the php-tmdb/api library.",
-    "homepage": "https://github.com/php-tmdb/symfony",
+    "homepage": "https://github.com/cirica/my-tmdb/",
     "keywords": ["tmdb", "api", "php","wrapper", "movie", "cinema", "tv", "tv show", "tvdb", "symfony", "symfony4", "symfony5"],
     "authors": [
         {
